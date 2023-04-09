@@ -1,2 +1,2 @@
 # Geo2Lite
-Database of MaxMind-17-01-23
+Database of MaxMind-09-04-23
